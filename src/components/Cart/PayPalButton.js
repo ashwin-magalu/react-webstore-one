@@ -31,7 +31,7 @@ export default class MyApp extends React.Component {
 
     const client = {
       sandbox:
-        "AW_76gEQRnpdVOZp_2pCylk41-IPrNlQTaFDtnfXSj_POw1CEqPW265VA4lvz2QZNIpPdjwlAFvQMGFh",
+        "bshbhdsbchsdbhsbhsbhssshbssjajkjaki",
       production: "YOUR-PRODUCTION-APP-ID",
     };
     // In order to get production's app-ID, you will have to send your app to Paypal for approval first
